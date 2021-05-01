@@ -12,7 +12,7 @@ tagline:          'Activity Blog of SapienzaNLP group at La Sapienza University 
 description:      SapienzaNLP reading group seminar serie on Natural Language Processing (NLP).
   SapienzaNLP group is focused on NLP and is specifically interested in Semantic Parsing, Word Sense Disambiguation and related topics.
 url: https://caterinalacerra.github.io
-baseurl: ALaSca/docs/
+baseurl: ALaSca/docs
 
 author:
   name:           'Tommaso Pasini'
