@@ -10,8 +10,8 @@ title:            ALaSca
 subtitle:         An Automated Approach for Large-Scale Lexical Substitution
 
 description:      Website for the ALaSca paper
-# url: https://caterinalacerra.github.io
-baseurl: https://caterinalacerra.github.io/ALaSca/docs
+url: https://caterinalacerra.github.io
+#baseurl: https://caterinalacerra.github.io/ALaSca/docs
 
 author:
   name:           'Caterina Lacerra'
