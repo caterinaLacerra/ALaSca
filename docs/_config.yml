@@ -6,19 +6,18 @@ rouge:      pygments
 permalink:        pretty
 
 # Setup
-title:            SapienzaNLP
-subtitle:         Reading Group
-tagline:          'Activity Blog of SapienzaNLP group at La Sapienza University of Rome'
-description:      SapienzaNLP reading group seminar serie on Natural Language Processing (NLP).
-  SapienzaNLP group is focused on NLP and is specifically interested in Semantic Parsing, Word Sense Disambiguation and related topics.
-#url: https://caterinalacerra.github.io
+title:            ALaSca
+subtitle:         An Automated Approach for Large-Scale Lexical Substitution
+
+description:      Website for the ALaSca paper
+# url: https://caterinalacerra.github.io
 baseurl: https://caterinalacerra.github.io/ALaSca/docs
 
 author:
-  name:           'Tommaso Pasini'
-  url:            https://twitter.com/pasini_t
+  name:           'Caterina Lacerra'
+  url:            https://twitter.com/CaterinaLac
 
-paginate:         5
+paginate:         2
 
 # Custom vars
 version:          2.1.0
