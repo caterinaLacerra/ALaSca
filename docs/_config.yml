@@ -12,7 +12,7 @@ subtitle:
 description:      An Automated Approach for Large-Scale Lexical Substitution
 url: https://caterinalacerra.github.io
 #baseurl: docs
-baseurl: /docs
+baseurl: /
 
 author:
   name:           'Caterina Lacerra'
