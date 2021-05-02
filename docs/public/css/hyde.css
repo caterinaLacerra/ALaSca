@@ -76,7 +76,7 @@ html {
 }
 
 /* About section */
-.page-title {
+.page.title {
   font-family: "Abril Fatface", sans-serif;
 }
 .sidebar-about h1 {
