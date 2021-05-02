@@ -76,6 +76,9 @@ html {
 }
 
 /* About section */
+.page-title {
+  font-family: "Abril Fatface", sans-serif;
+}
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
